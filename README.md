@@ -45,3 +45,4 @@ Run the test on all three browsers supported by Playwright — Chromium, Firefox
 - Product prices keep changing — results might differ each time you run the test.
 
 ### 📸 Test Execution Screenshot
+![image alt](https://github.com/Monika0015git/flipkart-amazon-price-comparison/blob/4130cf6114a4c062a5e3e5ba0a520366727be99e/Playwright%20test%20result.png)
