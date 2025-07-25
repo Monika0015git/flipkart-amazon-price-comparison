@@ -46,4 +46,4 @@ Run the test on all three browsers supported by Playwright — Chromium, Firefox
 
 ### 📸 Test Execution Screenshot
 ![image alt](https://github.com/Monika0015git/flipkart-amazon-price-comparison/blob/4130cf6114a4c062a5e3e5ba0a520366727be99e/Playwright%20test%20result.png)
-![image alt]9https://github.com/Monika0015git/flipkart-amazon-price-comparison/blob/74abe8cc73eb00c74957896d0b7fa3f2819ea0b5/VS-Code%20Console%20Output.PNG)
+![image alt](https://github.com/Monika0015git/flipkart-amazon-price-comparison/blob/74abe8cc73eb00c74957896d0b7fa3f2819ea0b5/VS-Code%20Console%20Output.PNG)
