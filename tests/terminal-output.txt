@@ -1,0 +1,92 @@
+ C:\Users\monika bilung\OneDrive\Desktop\playwright>  npx playwright test
+
+Running 3 tests using 3 workers
+[chromium] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🟠 Navigating to Amazon...
+[firefox] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🟠 Navigating to Amazon...
+[webkit] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🟠 Navigating to Amazon...
+[firefox] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🟡 Amazon: Apple iPhone 15 Plus (128 GB) - Black @ ₹72490
+🔵 Navigating to Flipkart...
+[chromium] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🟡 Amazon: Apple iPhone 15 Plus (128 GB) - Black @ ₹72490
+🔵 Navigating to Flipkart...
+🟡 Amazon: Apple iPhone 15 Plus (128 GB) - Black @ ₹72490
+🔵 Navigating to Flipkart...
+[firefox] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🔷 Flipkart: Apple iPhone 15 Plus (Black, 128 GB) @ ₹71999
+✅ Flipkart is cheaper. Test Passed.
+[webkit] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🟡 Amazon: Apple iPhone 15 Plus (128 GB) - Black @ ₹72490
+🔵 Navigating to Flipkart...
+[firefox] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🔷 Flipkart: Apple iPhone 15 Plus (Black, 128 GB) @ ₹71999
+✅ Flipkart is cheaper. Test Passed.
+🟡 Amazon: Apple iPhone 15 Plus (128 GB) - Black @ ₹72490
+🔵 Navigating to Flipkart...
+[firefox] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🔷 Flipkart: Apple iPhone 15 Plus (Black, 128 GB) @ ₹71999
+🟡 Amazon: Apple iPhone 15 Plus (128 GB) - Black @ ₹72490
+🔵 Navigating to Flipkart...
+[firefox] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🟡 Amazon: Apple iPhone 15 Plus (128 GB) - Black @ ₹72490
+🔵 Navigating to Flipkart...
+🟡 Amazon: Apple iPhone 15 Plus (128 GB) - Black @ ₹72490
+🔵 Navigating to Flipkart...
+🟡 Amazon: Apple iPhone 15 Plus (128 GB) - Black @ ₹72490
+🔵 Navigating to Flipkart...
+🟡 Amazon: Apple iPhone 15 Plus (128 GB) - Black @ ₹72490
+🔵 Navigating to Flipkart...
+[firefox] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🟡 Amazon: Apple iPhone 15 Plus (128 GB) - Black @ ₹72490
+🔵 Navigating to Flipkart...
+[firefox] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🟡 Amazon: Apple iPhone 15 Plus (128 GB) - Black @ ₹72490
+🔵 Navigating to Flipkart...
+[firefox] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🟡 Amazon: Apple iPhone 15 Plus (128 GB) - Black @ ₹72490
+🔵 Navigating to Flipkart...
+[firefox] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🔷 Flipkart: Apple iPhone 15 Plus (Black, 128 GB) @ ₹71999
+🟡 Amazon: Apple iPhone 15 Plus (128 GB) - Black @ ₹72490
+🔵 Navigating to Flipkart...
+[firefox] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🟡 Amazon: Apple iPhone 15 Plus (128 GB) - Black @ ₹72490
+🔵 Navigating to Flipkart...
+🟡 Amazon: Apple iPhone 15 Plus (128 GB) - Black @ ₹72490
+🔵 Navigating to Flipkart...
+[firefox] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🔷 Flipkart: Apple iPhone 15 Plus (Black, 128 GB) @ ₹71999
+[firefox] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🔷 Flipkart: Apple iPhone 15 Plus (Black, 128 GB) @ ₹71999
+✅ Flipkart is cheaper. Test Passed.
+🔷 Flipkart: Apple iPhone 15 Plus (Black, 128 GB) @ ₹71999
+✅ Flipkart is cheaper. Test Passed.
+✅ Flipkart is cheaper. Test Passed.
+[webkit] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+[webkit] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🔷 Flipkart: Apple iPhone 15 Plus (Black, 128 GB) @ ₹71999
+🔷 Flipkart: Apple iPhone 15 Plus (Black, 128 GB) @ ₹71999
+✅ Flipkart is cheaper. Test Passed.
+[chromium] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+[chromium] › tests\compare-prices.spec.ts:5:5 › Compare iPhone 15 Plus price on Flipkart vs Amazon
+🔷 Flipkart: Apple iPhone 15 Plus (Black, 128 GB) @ ₹71999
+🔷 Flipkart: Apple iPhone 15 Plus (Black, 128 GB) @ ₹71999
+✅ Flipkart is cheaper. Test Passed.
+✅ Flipkart is cheaper. Test Passed.
+  3 passed (1.2m)
+
+  3 passed (1.2m)
+
+To open last HTML report run:
+
+To open last HTML report run:
+To open last HTML report run:
+
+  npx playwright show-report
+
+PS C:\Users\monika bilung\OneDrive\Desktop\playwright>  npx playwright show-report
+
+  Serving HTML report at http://localhost:9323. Press Ctrl+C to quit.
