@@ -24,8 +24,11 @@ This project compares the price of **iPhone 15 Plus** on **Flipkart** and **Amaz
 
 ## 📦 Installation
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+# Clone the repository
+git clone https://github.com/Monika0015git/flipkart-amazon-price-comparison.git
+# Navigate into the project directory
+cd flipkart-amazon-price-comparison
+# Install dependencies
 npm install
 
 ## ▶️ Run the Test
